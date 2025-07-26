@@ -1,1 +1,4 @@
-"openai\npyttsx3\nSpeechRecognition\npyaudio" 
+openai
+pyttsx3
+SpeechRecognition
+pyaudio

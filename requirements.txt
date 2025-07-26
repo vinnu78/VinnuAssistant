@@ -1,0 +1,1 @@
+"openai\npyttsx3\nSpeechRecognition\npyaudio" 
